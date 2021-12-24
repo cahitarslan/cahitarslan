@@ -1,9 +1,6 @@
 # Hi there 👋
-
 ## Welcome to my Github page
-
 I'm working on full stack web application developing. I share my projects in here. I generally use the dotnet core infrastructure for the backend. For the frontend, I am developing with Angular.
-
 <h2 align="center">Reach out to me :link:</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=cahitarslan&color=green" alt="cahitarslan :: Profile Stats">
