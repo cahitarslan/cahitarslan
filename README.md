@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center">Welcome to my Github page</h2>
-<p align="center">I'm working on full stack web application developing. I share my projects in here. I generally use the dotnet core infrastructure for the backend. For the frontend, I am developing with Angular.</p>
+<p align="center">I'm working on full stack web application developing. I share my projects in here. I generally use the node js infrastructure for the backend. For the frontend, I am developing with Angular.</p>
 <h2 align="center">Reach out to me :link:</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=cahitarslan&color=green" alt="cahitarslan :: Profile Stats">
