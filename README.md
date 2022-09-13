@@ -4,7 +4,7 @@
 <h2 align="center">Reach out to me :link:</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=cahitarslan&color=green" alt="cahitarslan :: Profile Stats">
-<a href="mailto:cahitarslan.business@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cahitarslan.business@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:cahitarslan93@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-cahitarslan93@outlook.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/cahit-arslan-004583229/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@cahitarslan-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/cahitarsIan"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-cahitarsIan-blue?style=flat-square&logo=twitter"></a>
 </p>
