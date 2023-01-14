@@ -26,6 +26,6 @@
 </p>
 <h2 align="center">GitHub Stats :bar_chart:</h2>
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitarslan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Cahit's github stats" width="400" height="200" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitarslan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Cahit's github stats" width="400" height="250" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact&theme=tokyonight&hide_border=true" width="400" height="200" />
 </p>
