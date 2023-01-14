@@ -26,6 +26,14 @@
 </p>
 <h2 align="center">GitHub Stats :bar_chart:</h2>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact" width="455" height="180">
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact)](https://github.com/cahitarslan/github-readme-stats)
+
    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=cahitarslan&show_icons=true" width="455" height="180">
+   
+   <p></p>
+   <p></p>
+   <p></p><p></p>
+   <p></p>
+   
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact" width="455" height="180">
 </p>
