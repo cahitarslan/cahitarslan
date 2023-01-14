@@ -26,7 +26,7 @@
 </p>
 <h2 align="center">GitHub Stats :bar_chart:</h2>
 <p align="center">
-   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitarslan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cahit's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact&theme=buefy&hide_border=true" /></a> |
+   | <a href="https://github.com/cahitarslan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitarslan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cahit's github stats" /></a> | <a href="https://github.com/cahitarslan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact&theme=buefy&hide_border=true" /></a> |
 
  
    
