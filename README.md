@@ -25,17 +25,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 <h2 align="center">GitHub Stats :bar_chart:</h2>
-<p align="center">
-   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitarslan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Cahit's github stats" />
-   
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitarslan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Cahit's github stats" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact&theme=tokyonight&hide_border=true" />
-   
-#### Top Repositories
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cahitarslan&repo=cahitarslan&theme=tokyonight" />
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cahitarslan&repo=cahitarslan&theme=tokyonight" />
-
-</p>
