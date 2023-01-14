@@ -26,14 +26,16 @@
 </p>
 <h2 align="center">GitHub Stats :bar_chart:</h2>
 <p align="center">
-   | <a href="https://github.com/cahitarslan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitarslan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cahit's github stats" /></a> | <a href="https://github.com/cahitarslan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact&theme=buefy&hide_border=true" /></a> |
+   
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitarslan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Cahit's github stats" />
+   
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact&theme=tokyonight&hide_border=true" />
+   
+#### Top Repositories
 
- 
-   
-   <p></p>
-   <p></p>
-   <p></p><p></p>
-   <p></p>
-   
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact" width="455" height="180">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cahitarslan&repo=cahitarslan&theme=tokyonight" />
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cahitarslan&repo=cahitarslan&theme=tokyonight" />
+
 </p>
