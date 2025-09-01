@@ -2,8 +2,8 @@
 <h3 align="center">.NET Backend & Full-Stack Developer | Game Developer | Tech Enthusiast</h3>
 
 <p align="center">
-As a passionate software engineer, I specialize in building **scalable web applications**, crafting **immersive gaming experiences**, and leveraging technology to solve **real-world business problems**.  
-My journey spans across **.NET backend development, modern frontend frameworks, game engines (Unity & Unreal), and AI-driven solutions**, with a strong focus on performance, maintainability, and user experience.
+As a passionate software engineer, I specialize in building <b>scalable web applications</b>, crafting <b>immersive gaming experiences</b>, and leveraging technology to solve <b>real-world business problems</b>.  
+My journey spans across <b>.NET backend development, modern frontend frameworks, game engines (Unity & Unreal), and AI-driven solutions</b>, with a strong focus on performance, maintainability, and user experience.
 </p>
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
