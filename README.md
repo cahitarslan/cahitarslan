@@ -2,9 +2,10 @@
 <h3 align="center">.NET Backend & Full-Stack Developer | Game Developer | Tech Enthusiast</h3>
 
 <p align="center">
-As a passionate software engineer, I specialize in building <b>scalable web applications</b>, crafting <b>immersive gaming experiences</b>, and leveraging technology to solve <b>real-world business problems</b>.  
+As a passionate software engineer, I specialize in building <b>scalable web applications</b>, .NET Full Stack Developer with 3+ years of experience in enterprise financial systems and multi-tenant web applications and leveraging technology to solve <b>real-world business problems</b>.  
 My journey spans across <b>.NET backend development, modern frontend frameworks, game engines (Unity & Unreal), and AI-driven solutions</b>, with a strong focus on performance, maintainability, and user experience.
 </p>
+<h2 align="center">🎮 Published Game: [I Bring The Chaos](https://store.steampowered.com/app/2674230)</h2>
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
 <a href="mailto:cahitarslan93@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-cahitarslan93@outlook.com-blue?style=flat&logo=gmail"></a>
@@ -28,6 +29,6 @@ My journey spans across <b>.NET backend development, modern frontend frameworks,
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitarslan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Cahit's github stats" width="436"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cahitarslan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="436"/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahitarslan&layout=compact&theme=tokyonight&hide_border=true" width="364" />
 </p>
