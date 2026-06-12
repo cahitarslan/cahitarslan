@@ -5,7 +5,7 @@
 As a passionate software engineer, I specialize in building <b>scalable web applications</b>, .NET Full Stack Developer with 3+ years of experience in enterprise financial systems and multi-tenant web applications and leveraging technology to solve <b>real-world business problems</b>.  
 My journey spans across <b>.NET backend development, modern frontend frameworks, game engines (Unity & Unreal), and AI-driven solutions</b>, with a strong focus on performance, maintainability, and user experience.
 </p>
-<h2 align="center">🎮 Published Game: [I Bring The Chaos](https://store.steampowered.com/app/2674230)</h2>
+<h4 align="center">🎮 Published Game: <a href="https://store.steampowered.com/app/2674230" target="_blank">I Bring The Chaos</a></h2>
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
 <a href="mailto:cahitarslan93@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-cahitarslan93@outlook.com-blue?style=flat&logo=gmail"></a>
